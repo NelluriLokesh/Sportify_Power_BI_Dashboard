@@ -69,34 +69,15 @@ The Power BI dashboard provides interactive visualizations and insights derived 
 
 1. **Download Power BI Desktop**: Make sure you have Power BI Desktop installed on your system. If not, download and install it from the official [Power BI website](https://powerbi.microsoft.com/).
 
-2. **Clone Repository**: Clone this repository to your local machine using Git or download the ZIP file and extract its contents.
 
-3. **Open Power BI Dashboard**: Open the `.pbix` file in Power BI Desktop.
 
-4. **Connect to Dataset**: If prompted, connect the dashboard to your Spotify dataset or import data directly from the provided dataset file.
 
-5. **Explore Data**: Interact with the dashboard components to explore different visualizations and insights.
+# Usage To access the dashboard and explore the visualizations:
+Clone the repository to your local machine.
+Open the dashboard file ("https://app.powerbi.com/groups/me/reports/73bd6c56-7bfe-421f-85ec-7f47f8bf7603/ReportSection?experience=power-bi") in your web browser.
+Navigate through the different visualizations and metrics.
 
-6. **Customize and Analyze**: Customize the dashboard as needed and analyze the data to derive insights and trends.
-
-7. **Save and Share**: Save your modifications to the dashboard and share it with others to collaborate or present your findings.
-
-## Notes
-
-- This dashboard is created for educational and analytical purposes, using a sample dataset. It may not reflect real-time or live data from Spotify.
-
-- The dataset used in this dashboard is for demonstration purposes only and may not represent the entire catalog of tracks available on Spotify.
-
-- For any questions, feedback, or issues regarding the dashboard, feel free to open an issue or contact the repository owner.
-
-## Credits
-
-- This dashboard was created by [Your Name or Organization] using Power BI and Spotify dataset.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the code and dashboard as per the terms of the license.
-
----
-
-Feel free to modify this README file according to your specific project details and requirements. Enjoy exploring the Spotify dataset with the Power BI dashboard!
+# Contributors
+Nelluri Lokesh : ' https://github.com/NelluriLokesh '
+# License
+This project is licensed under the MIT License.
