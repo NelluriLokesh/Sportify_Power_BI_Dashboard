@@ -1,12 +1,13 @@
 # Sportify_Power_BI_Dashboard
 
-# Spotify Dataset Power BI Dashboard
-
 ## Overview
 
 This repository contains a Power BI dashboard built using Spotify dataset. The dataset includes various attributes related to tracks available on Spotify, such as track name, artist name(s), release date, popularity, streaming data, and more.
 
 The Power BI dashboard provides interactive visualizations and insights derived from the Spotify dataset, allowing users to explore trends, analyze popularity, and gain insights into the characteristics of tracks and artists.
+
+**In this analysis, particular attention was given to the song "Blinding Lights" by The Weeknd. This track has garnered significant popularity and has been a standout hit in the dataset.**
+
 
 ## Features
 
