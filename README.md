@@ -22,34 +22,45 @@ The Power BI dashboard provides interactive visualizations and insights derived 
 
 ## Dashboard Components
 
-1. **Overview**: Provide a detailed summary of key metrics and trends related to "Blinding Lights." This could include total streams, chart positions, playlist appearances, and any notable milestones or trends over time.
+1. **Overview**:
+  Provide a detailed summary of key metrics and trends related to "Blinding Lights." This could include total streams, chart positions, playlist appearances, and any notable milestones or trends over time.
 
-2. **Track Analysis**: Create visualizations that specifically highlight the characteristics of "Blinding Lights," such as its danceability, energy, and acousticness. Compare these attributes to the average values in the dataset to understand how the song stands out.
+3. **Track Analysis**:
+    Create visualizations that specifically highlight the characteristics of "Blinding Lights," such as its danceability, energy, and acousticness. Compare these attributes to the average values in the dataset to understand how the song stands out.
 
-3. **Artist Insights**: Analyze The Weeknd's overall popularity and presence in playlists and charts, with a special focus on "Blinding Lights." Explore whether the song has contributed to any shifts in The Weeknd's popularity or visibility.
+5. **Artist Insights**:
+     Analyze The Weeknd's overall popularity and presence in playlists and charts, with a special focus on "Blinding Lights." Explore whether the song has contributed to any shifts in The Weeknd's popularity or visibility.
 
-4. **Trend Analysis**: Chart the streams, chart positions, and other relevant metrics for "Blinding Lights" over time. Identify any patterns or trends in its performance, such as spikes in streams after specific events or releases.
+7. **Trend Analysis**:
+   Chart the streams, chart positions, and other relevant metrics for "Blinding Lights" over time. Identify any patterns or trends in its performance, such as spikes in streams after specific events or releases.
 
-5. # **Playlist and Chart Presence**:
+8. **Playlist and Chart Presence**:
    Visualize the presence of "Blinding Lights" in various playlists and charts, both within its release period and over time. Identify which playlists or charts have contributed most to its success.
 
-8. **Sum of Streams by Track Name (Bar Chart)**: Create a bar chart showing the total streams of "Blinding Lights" compared to other tracks in the dataset. This will highlight its relative popularity.
+9. **Sum of Streams by Track Name (Bar Chart)**:
+      Create a bar chart showing the total streams of "Blinding Lights" compared to other tracks in the dataset. This will highlight its relative popularity.
 
-9. **Tracks by Release Date (Line Chart)**: Plot the release dates of "Blinding Lights" alongside other tracks to see if there are any trends or patterns in release timing that may have influenced its success.
+11. **Tracks by Release Date (Line Chart)**:
+      Plot the release dates of "Blinding Lights" alongside other tracks to see if there are any trends or patterns in release timing that may have influenced its success.
 
-10. **Energy using Unit Chart**: Use a unit chart to visually represent the energy level of "Blinding Lights" compared to other tracks. This will provide insight into its sonic characteristics.
+13. **Energy using Unit Chart**:
+    Use a unit chart to visually represent the energy level of "Blinding Lights" compared to other tracks. This will provide insight into its sonic characteristics.
 
-11. **Energy Distribution (Pie Chart)**: Show the distribution of energy levels among tracks in the dataset, with "Blinding Lights" highlighted. This will contextualize its energy level relative to other songs.
+15. **Energy Distribution (Pie Chart)**:
+    Show the distribution of energy levels among tracks in the dataset, with "Blinding Lights" highlighted. This will contextualize its energy level relative to other songs.
 
-12. **Sum of BPM**: Calculate the total sum of Beats Per Minute (BPM) for "Blinding Lights" and compare it to the average BPM in the dataset. This will provide insight into its tempo compared to other tracks.
+17. **Sum of BPM**:
+     Calculate the total sum of Beats Per Minute (BPM) for "Blinding Lights" and compare it to the average BPM in the dataset. This will provide insight into its tempo compared to other tracks.
 
-13. **Top Songs vs. Average**: Compare the stream count of "Blinding Lights" with the average stream count to understand its performance relative to other songs. Highlight any significant deviations from the average.
+19. **Top Songs vs. Average**:
+      Compare the stream count of "Blinding Lights" with the average stream count to understand its performance relative to other songs. Highlight any significant deviations from the average.
 
-14. **Track Information**: Provide detailed information about "Blinding Lights," including its total streams, release date, and any collaborations or notable features. This will give a comprehensive overview of the song's profile.
+21. **Track Information**:
+    Provide detailed information about "Blinding Lights," including its total streams, release date, and any collaborations or notable features. This will give a comprehensive overview of the song's profile.
 
-15. **Music Information**: Analyze the musical attributes of "Blinding Lights," such as its acousticness, danceability, liveness, speechiness, and valence. Compare these attributes to other tracks to understand its unique qualities.
+23. **Music Information**:
+      Analyze the musical attributes of "Blinding Lights," such as its acousticness, danceability, liveness, speechiness, and valence. Compare these attributes to other tracks to understand its unique qualities.
 
-By conducting a thorough analysis focusing on "Blinding Lights" by The Weeknd, you can gain valuable insights into the song's performance, characteristics, and impact within the broader context of the music streaming dataset.
 ## Instructions for Use
 
 1. **Download Power BI Desktop**: Make sure you have Power BI Desktop installed on your system. If not, download and install it from the official [Power BI website](https://powerbi.microsoft.com/).
