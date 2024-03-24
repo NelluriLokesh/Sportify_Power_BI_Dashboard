@@ -74,7 +74,7 @@ The Power BI dashboard provides interactive visualizations and insights derived 
 
 # Usage To access the dashboard and explore the visualizations:
 Clone the repository to your local machine.
-Open the dashboard file ("https://app.powerbi.com/groups/me/reports/73bd6c56-7bfe-421f-85ec-7f47f8bf7603/ReportSection?experience=power-bi") in your web browser.
+Open the dashboard file ("https://app.powerbi.com/groups/me/reports/72ed40a1-ce0c-45c4-9e7e-80ae5cd471e6/ReportSection?experience=power-bi") in your web browser.
 Navigate through the different visualizations and metrics.
 
 # Contributors
