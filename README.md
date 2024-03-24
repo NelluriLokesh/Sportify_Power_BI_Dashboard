@@ -30,23 +30,24 @@ The Power BI dashboard provides interactive visualizations and insights derived 
 
 4. **Trend Analysis**: Chart the streams, chart positions, and other relevant metrics for "Blinding Lights" over time. Identify any patterns or trends in its performance, such as spikes in streams after specific events or releases.
 
-5. **Playlist and Chart Presence**: Visualize the presence of "Blinding Lights" in various playlists and charts, both within its release period and over time. Identify which playlists or charts have contributed most to its success.
+5. # **Playlist and Chart Presence**:
+   Visualize the presence of "Blinding Lights" in various playlists and charts, both within its release period and over time. Identify which playlists or charts have contributed most to its success.
 
-6. **Sum of Streams by Track Name (Bar Chart)**: Create a bar chart showing the total streams of "Blinding Lights" compared to other tracks in the dataset. This will highlight its relative popularity.
+8. **Sum of Streams by Track Name (Bar Chart)**: Create a bar chart showing the total streams of "Blinding Lights" compared to other tracks in the dataset. This will highlight its relative popularity.
 
-7. **Tracks by Release Date (Line Chart)**: Plot the release dates of "Blinding Lights" alongside other tracks to see if there are any trends or patterns in release timing that may have influenced its success.
+9. **Tracks by Release Date (Line Chart)**: Plot the release dates of "Blinding Lights" alongside other tracks to see if there are any trends or patterns in release timing that may have influenced its success.
 
-8. **Energy using Unit Chart**: Use a unit chart to visually represent the energy level of "Blinding Lights" compared to other tracks. This will provide insight into its sonic characteristics.
+10. **Energy using Unit Chart**: Use a unit chart to visually represent the energy level of "Blinding Lights" compared to other tracks. This will provide insight into its sonic characteristics.
 
-9. **Energy Distribution (Pie Chart)**: Show the distribution of energy levels among tracks in the dataset, with "Blinding Lights" highlighted. This will contextualize its energy level relative to other songs.
+11. **Energy Distribution (Pie Chart)**: Show the distribution of energy levels among tracks in the dataset, with "Blinding Lights" highlighted. This will contextualize its energy level relative to other songs.
 
-10. **Sum of BPM**: Calculate the total sum of Beats Per Minute (BPM) for "Blinding Lights" and compare it to the average BPM in the dataset. This will provide insight into its tempo compared to other tracks.
+12. **Sum of BPM**: Calculate the total sum of Beats Per Minute (BPM) for "Blinding Lights" and compare it to the average BPM in the dataset. This will provide insight into its tempo compared to other tracks.
 
-11. **Top Songs vs. Average**: Compare the stream count of "Blinding Lights" with the average stream count to understand its performance relative to other songs. Highlight any significant deviations from the average.
+13. **Top Songs vs. Average**: Compare the stream count of "Blinding Lights" with the average stream count to understand its performance relative to other songs. Highlight any significant deviations from the average.
 
-12. **Track Information**: Provide detailed information about "Blinding Lights," including its total streams, release date, and any collaborations or notable features. This will give a comprehensive overview of the song's profile.
+14. **Track Information**: Provide detailed information about "Blinding Lights," including its total streams, release date, and any collaborations or notable features. This will give a comprehensive overview of the song's profile.
 
-13. **Music Information**: Analyze the musical attributes of "Blinding Lights," such as its acousticness, danceability, liveness, speechiness, and valence. Compare these attributes to other tracks to understand its unique qualities.
+15. **Music Information**: Analyze the musical attributes of "Blinding Lights," such as its acousticness, danceability, liveness, speechiness, and valence. Compare these attributes to other tracks to understand its unique qualities.
 
 By conducting a thorough analysis focusing on "Blinding Lights" by The Weeknd, you can gain valuable insights into the song's performance, characteristics, and impact within the broader context of the music streaming dataset.
 ## Instructions for Use
